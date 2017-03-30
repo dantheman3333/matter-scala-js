@@ -7,7 +7,7 @@ I am unsure if I will continue working on this - seems unnecessary/unwise when y
 
 Please feel free to fork if you would like to play around with or improve it. 
 
-Example: 
+Example ([edited version of this](https://github.com/liabru/matter-js/blob/master/examples/mixed.js)): 
 
     val world = World.create
     val engine = Engine.create(EngineOptions.world(world))
